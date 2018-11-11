@@ -1,0 +1,32 @@
+body {
+  color: white;
+  background-color: #231f20;
+}
+a {
+  color: #0686b8;
+  text-decoration: none;
+}
+h1 {
+  text-align: center;
+}
+a:hover {
+  color: #d6e0e8;
+}
+.centered {
+  flex: 1;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 50%;
+}
+.Aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.strech {
+  display: flex;
+  align-items: center;
+}
+.strech div {
+  flex: 1;
+  text-align: center;
+}
